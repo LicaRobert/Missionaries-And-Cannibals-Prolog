@@ -1,4 +1,4 @@
-% WRITE FIND. IN THE RUN WINDOW.
+% WRITE find. IN THE RUN WINDOW.
 
 startState([3,3,left,0,0]).
 finishState([0,0,right,3,3]).
